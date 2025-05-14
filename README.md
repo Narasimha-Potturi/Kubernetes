@@ -43,4 +43,7 @@ Here's the reason:
 K8s is nothing but the shortened form of the word "Kubernetes".
 The word "Kubernetes" has 8 Letters between the letters K and S . so in short it is called as K8S. People uses this as it much easier to read and type .
 
+### *What is Control Plane?*
+The control plane is the brain of the Kubernetes cluster. It manages the cluster's state, including scheduling, scaling, and maintaining the desired state of applications. The control plane consists of several components that work together to ensure the smooth operation of the cluster.
+
 
